@@ -39,4 +39,10 @@ label {
   .App {
     max-width: 100%;
   }
+
+  .about-p {
+    max-width: 80%;
+    margin: 0 auto;
+    text-align: justify;
+  }
 }

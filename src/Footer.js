@@ -12,6 +12,12 @@ export function Footer() {
 
   return (
     <div>
+      <h3>About</h3>
+      <p className="about-p">
+        This App takes user's complete birthday and their lucky number as input
+        and calculates if sum of diigits of birthday is divisible by the lucky
+        number.
+      </p>
       <h2>Connect with me on</h2>
       <ul style={{ listStyle: "none", margin: "0", padding: "0" }}>
         <li style={list}>
